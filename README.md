@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 校园空气质量监测报告
 
 A simple Streamlit app template for you to modify!
 
